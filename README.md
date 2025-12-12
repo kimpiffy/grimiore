@@ -348,26 +348,6 @@ export default defineConfig({
 ```
 
 
-## Conclusion
-
-This project began with a simple brief: “Who am I?” In Week 1, I answered somewhat literally; through referncing my own illustration methods, selfies, collage, and halftone experiments that became “My Big 3.” I
-
-n Week 2, I expanded: I started thinking about how to quantify the qualitative. I wanted to illustrate myself not just with images, but with data, patterns, and sound.
-
-That search led me here: Finding Myself (Astro Sonar). A creativley coded self-portrait that sweeps like a sonar, crossing my planets and sounding them as signals. It began as an abstract thought experiment, but once I added the background drawing from Week 2, it transformed into something cohesive; referencing both my personal imagery and the psychedelic, astrological visual traditions of the 1960s (which I love!).
-
-The tempo arc (resting heartbeat → overdrive → burnout) became a metaphor for my own rhythms of life and work. The psychoactive visuals gave it a hallucinatory edge, reminding me that identity is not static but constantly in motion, refracted through cycles.
-
-Finally, by deploying it with GitHub Pages, I made this portrait public and alive. It’s no longer a static image but a moving, sounding, generative outcome...a digital glyph for my endless self-searching.
-
-What began as “make a portrait” became a layered exploration:
-
-Narrative + astrology for meaning,
-Code + animation for structure,
-Sound + tempo for embodiment,
-Deployment for presence.
-
-This project doesn’t just say “who I am” it enacts the process of finding myself.
 
 
 
